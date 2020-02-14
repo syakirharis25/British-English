@@ -17,6 +17,9 @@ Colloquial portmanteau words for British English include: Bringlish (recorded fr
 ## 2. Official references websites. <br />
 Official website of British government : https://www.gov.uk <br />
 
+**_British English related articles_**
+“Two million” or “two millions”? : https://speakspeak.com/grammar-articles/two-million-dollars-or-millions <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
