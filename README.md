@@ -4,7 +4,8 @@ My works related to British English, the standard dialect of the English languag
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
+3. [International English Language Testing System.](#IELTS)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -16,12 +17,21 @@ Colloquial portmanteau words for British English include: Bringlish (recorded fr
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Official website of British government : https://www.gov.uk <br />
+International English Language Testing System : https://www.ielts.org <br />
 
-**_British English related articles_**
+**_British English related articles_** <br />
 “Two million” or “two millions”? : https://speakspeak.com/grammar-articles/two-million-dollars-or-millions <br />
 
+<a name="IELTS"></a>
+## 3. International English Language Testing System.
+The International English Language Testing System(IELTS™) is an international standardised test of English language proficiency for non-native English language speakers. It is jointly managed by the British Council, IDP: IELTS Australia and Cambridge Assessment English, and was established in 1989. IELTS is one of the major English-language tests in the world, others being the TOEFL, TOEIC, PTE:A, and OPI/OPIc.
+
+IELTS is accepted by most Australian, British, Canadian, Irish and New Zealand academic institutions, by over 3,000 academic institutions in the United States, and by various professional organisations across the world. IELTS is the only Secure English Language Test approved by UK Visas and Immigration (UKVI) for visa customers applying both outside and inside the UK.
+
+No minimum score is required to pass the test. An IELTS result or Test Report Form is issued to all test takers with a score from "band 1" ("non-user") to "band 9" ("expert user") and each institution sets a different threshold. There is also a "band 0" score for those who did not attempt the test. Institutions are advised not to consider a report older than two years to be valid, unless the user proves that they have worked to maintain their level.
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/British-English.git
