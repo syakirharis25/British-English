@@ -6,6 +6,7 @@ My works related to British English, the standard dialect of the English languag
 2. [Official references websites.](#references)
 3. [International English Language Testing System.](#IELTS)
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -38,3 +39,15 @@ $ git clone https://github.com/syakirharis25/British-English.git
 $ cd British-English/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 5. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              9              0             31
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
